@@ -22,6 +22,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func applicationWillResignActive(application: UIApplication) {
        /*
          反馈完成了 30%
+         反馈完成了 100%
          */
     }
 
