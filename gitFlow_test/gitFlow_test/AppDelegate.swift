@@ -19,6 +19,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
          已经修复了0.1.1的崩溃
          已修复0.1.1 100%
          */
+        /*
+         release
+         修改了部分发布信息，修改了少许缺陷
+         */
         return true
     }
 
