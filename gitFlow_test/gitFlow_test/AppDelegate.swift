@@ -22,7 +22,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
          */
         /*
          0.1.2
-         已经修复了0.1.2的崩溃
+         已经修复了0.1.2的崩溃 30%
          */
         return true
     }
