@@ -22,6 +22,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         /*
          release
          修改了部分发布信息，修改了少许缺陷
+         信息完善完毕，可以发布
          */
         return true
     }
